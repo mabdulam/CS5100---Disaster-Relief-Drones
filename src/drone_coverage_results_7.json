@@ -1,0 +1,30 @@
+{
+    "grid_size": 7,
+    "final_reward": 732.6234693877551,
+    "drone_positions": [
+        [
+            4,
+            2
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            4,
+            5
+        ]
+    ],
+    "drone_radii": [
+        5,
+        5,
+        5,
+        5
+    ],
+    "obstacles": [],
+    "coverage_percentage": 100.0
+}
