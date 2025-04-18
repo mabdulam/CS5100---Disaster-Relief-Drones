@@ -68,6 +68,10 @@ Alternatively, if you are not using Anaconda:
    >>> exit()
    ```
 
+### 1.3. Demo
+
+https://m.youtube.com/watch?v=1LlGsLSzpQA&pp=ygUOZ2FtaW5na2luZzA5NDE%3D
+
 ## 2. Directory Structure
 
 Below is a typical layout (yours may vary slightly, but the essential structure is):
